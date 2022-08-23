@@ -14,14 +14,7 @@ Express.js routing
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img
-src='https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png](https://www.yegor256.com/images/2014/09/heroku-logo.svg'
-alt="Heroku thumbnail"
-style="height:1.5%; width:3.5%;">
-<img
-src='https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png'
-alt="Postman thumbnail"
-style="height:1.5%; width:3.5%;">
+
 ## File Structure
 
 ``` MD
