@@ -15,7 +15,7 @@ Express.js routing
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <img
-src='https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png'
+src='https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png](https://www.yegor256.com/images/2014/09/heroku-logo.svg'
 alt="Heroku thumbnail"
 style="height:1.5%; width:3.5%;">
 <img
